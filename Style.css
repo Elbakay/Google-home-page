@@ -1,0 +1,128 @@
+body {
+	height: 100%;
+
+}
+#logo1 {
+	margin-right: 15px
+}
+#Gmail{
+	margin-right: 15px;
+	margin-top:25px;
+	font-size: 15px;
+	
+}
+
+#Images{
+	margin-right: 15px;
+	margin-top:25px;
+	font-size: 15px;
+}
+a{
+	text-decoration: none;
+}
+#haut{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+#bouton a  {
+margin-right: 10px;	
+margin-top:5px;
+display:block;
+width:90px;
+line-height:30px;
+text-align:center;
+vertical-align:middle;
+background:url(bouton.png) no-repeat;
+color:white;
+text-decoration:none;
+font-family: Arial;
+font-size: 13px;
+}
+#logoGoogle{
+	margin-top:100px;
+display:flex;
+justify-content: center;
+align-content: center;
+/*margin-top: 150px;
+margin-left: 600px;
+width:300px;
+height: 130px;*/
+}
+
+#GoogleSearch{
+
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	
+}
+
+.champ{
+	border-radius: 35px;
+    width:800px;
+height: 45px;
+font-size:20px;
+text-align:20px;
+}
+#bp1 a  {
+margin-right: 10px;	
+margin-top:5px;
+display:block;
+width:150px;
+height:60px;
+line-height:30px;
+padding-top :5px;
+text-align:center;
+vertical-align:middle;
+background:url(bp1.png) no-repeat;
+color:black;
+text-decoration:none;
+font-family: Arial;
+font-size: 14px;
+border-radius:2px;
+}
+#BPrecherche{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+
+}
+#bp2 a  {
+margin-right: 10px;	
+margin-top:5px;
+display:block;
+width:150px;
+height:60px;
+line-height:30px;
+padding-top :5px;
+text-align:center;
+vertical-align:middle;
+background:url(bp1.png) no-repeat;
+color:black;
+text-decoration:none;
+font-family: Arial;
+font-size: 14px;
+border-radius:2px;
+}
+#botom1{
+background-color: #DCDCDC;
+color: black;
+margin-top:210px;
+font-size: 20px;
+
+}
+#botom2 {
+background-color: #DCDCDC;
+color: gray;
+margin-top:0px;
+display: flex;
+
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+#botom2 a{
+	margin-right: 15px;
+}
